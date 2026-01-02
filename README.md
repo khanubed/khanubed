@@ -1,11 +1,10 @@
-# 👋 Hey, I'm Ubed Khan  
-
+<!-- Animated Header -->
 <p align="center">
-  <b>🚀 Full Stack Developer • 🎨 UI Enthusiast • 🤖 AIML Explorer</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ubed%20Khan&fontSize=50&fontAlignY=35&animation=fadeIn" />
 </p>
 
 <p align="center">
-  Building scalable web apps, crafting clean UI, and exploring AI — one project at a time.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI+Enthusiast;AIML+Explorer;Learning+in+Public+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -14,12 +13,12 @@
 
 🎓 **B.Tech Student** | **Fresher seeking Internships & Entry-Level Roles**  
 
-I’m passionate about **Full Stack Development**, **Data Structures & Algorithms**, and **AI/ML**.  
-I love turning ideas into **interactive, animated, and user-friendly experiences**.
+I build **scalable full-stack applications**, design **clean & animated user interfaces**,  
+and explore **AI/ML + DSA** to become a well-rounded engineer.
 
 ### 🧩 Philosophy  
-> **Consistency beats motivation.**  
-> Learn by building. Share progress publicly. Improve daily — even if it's just 1%.
+> **Consistency over motivation.**  
+> Build → Break → Learn → Share → Repeat.
 
 ---
 
@@ -32,7 +31,7 @@ I love turning ideas into **interactive, animated, and user-friendly experiences
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs)
 
-### 🎨 UI / Animations  
+### 🎨 UI / Motion  
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-0d1117?style=for-the-badge)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0d1117?style=for-the-badge&logo=framer)
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma)
@@ -44,12 +43,8 @@ I love turning ideas into **interactive, animated, and user-friendly experiences
 
 ### 📚 Currently Learning  
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript)
-![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-0d1117?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-0d1117?style=for-the-badge)
 ![AI & ML](https://img.shields.io/badge/AI_&_ML-0d1117?style=for-the-badge)
-
-### 🔧 Tools  
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)
 
 ---
 
@@ -57,41 +52,55 @@ I love turning ideas into **interactive, animated, and user-friendly experiences
 
 ### 💬 Chatify  
 **Real-time MERN Stack Chat Application**  
-- Real-time messaging with WebSockets  
-- Secure authentication & authorization  
-- Scalable backend architecture  
+⚡ Real-time messaging  
+🔐 Auth & authorization  
+📦 Scalable backend architecture  
 
 ### 🔗 Linkly  
 **SaaS-based URL Shortener**  
-- Short link generation & analytics  
-- Clean dashboard UI  
-- Built for scalability & performance  
+📊 Analytics & tracking  
+🎨 Clean dashboard UI  
+🚀 Built for scale  
 
 ---
 
 ## 🎯 Current Goals  
 
-- 🎯 Crack **internships & fresher-level roles**  
-- 🧠 Strengthen **DSA & problem-solving skills**  
-- 📢 Share **daily learning updates** on X & LinkedIn  
-- 🛠️ Build real-world, production-ready applications  
+- 🎯 Crack **internships & fresher roles**  
+- 🧠 Master **DSA & problem-solving**  
+- 📢 Share **daily learning posts** on X & LinkedIn  
+- 🛠️ Build production-ready apps  
+
+---
+
+## 📊 GitHub Activity  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent" />
+</p>
 
 ---
 
 ## 🌍 Connect With Me  
 
-- 🌐 **Portfolio:** Your Portfolio URL  
-- 💼 **LinkedIn:** Your LinkedIn URL  
-- 🐦 **X (Twitter):** Your X URL  
-- 📧 **Email:** Your Email Address  
+- 🌐 Portfolio: **Your Portfolio URL**  
+- 💼 LinkedIn: **Your LinkedIn URL**  
+- 🐦 X (Twitter): **Your X URL**  
+- 📧 Email: **Your Email Address**  
 
 ---
 
 ## ✨ Fun Fact  
 
-I enjoy mixing **logic + motion + aesthetics** —  
-code that **works smoothly** and **feels alive**.
+I love building interfaces that **move, feel alive, and tell a story** —  
+because good UX is not just seen, it’s *felt*.
 
 ---
 
-⭐ If you like my work, feel free to star ⭐ my repositories!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>

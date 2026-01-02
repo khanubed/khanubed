@@ -73,24 +73,12 @@ and explore **AI/ML + DSA** to become a well-rounded engineer.
 
 ---
 
-## 📊 GitHub Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent" />
-</p>
-
----
-
 ## 🌍 Connect With Me  
 
-- 🌐 Portfolio: **Your Portfolio URL**  
-- 💼 LinkedIn: **Your LinkedIn URL**  
-- 🐦 X (Twitter): **Your X URL**  
-- 📧 Email: **Your Email Address**  
+- 🌐 Portfolio: https://ubedkhan.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/ubed-khan-93220a22a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6C0RUasoTVmQS5Q0q1iBEQ%3D%3D
+- 🐦 X (Twitter): https://x.com/ubed_khan68100
+- 📧 Email: ubedkhan1808@gmail.com
 
 ---
 
